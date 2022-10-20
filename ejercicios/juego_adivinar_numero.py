@@ -1,5 +1,5 @@
 #Ejercicio11
-import random
+import random;
 seguir="s"
 print("juego para adivinar un numero")
 while seguir=="s":
